@@ -638,8 +638,8 @@ trMA.LaudsTheotokion.text = oc.m2.d7_en_US_oca.octrMA.LaudsTheotokion.text
 
 trMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode6
 trMA.AposGlory.melody = ""
-trMA.AposGlory.incipit = oc.m6.d7_en_US_oca.ocVE.Aposticha3.incipit
-trMA.AposGlory.text = oc.m6.d7_en_US_oca.ocVE.Aposticha3.text
+trMA.AposGlory.incipit = "…"
+trMA.AposGlory.text = ""
 
 trMA.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 trMA.AposTheotokion.melody = ""

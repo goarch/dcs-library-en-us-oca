@@ -3,20 +3,20 @@ A_Resource_Whose_Name = ho.ho03_en_US_oca
 hoMA.title = ""
 hoMA.MatinsOrdinary.title = ""
 hoMA.MatinsOrdinary.text = ""
-R01 = ""
-R02 = ""
+R01.rubric = ""
+R02.rubric = ""
 hoMA.Troparion3.text = ""
-R3 = ""
-R4 = ""
+R3.rubric = ""
+R4.rubric = ""
 SixPsalms.title = ""
-R6 = ""
-R7 = ""
-R8 = ""
-R9 = "" //(about Lent)
-R10 = ""
+R6.rubric = ""
+R7.rubric = ""
+R8.rubric = ""
+R9.rubric = "" //(about Lent)
+R10.rubric = ""
 
 hoMA.Triadics.title = titles_en_US_oca.ti.TriadicHymns
-R11 = ""
+R11.rubric = ""
 
 /* 
 Title Mode1
@@ -76,13 +76,13 @@ Both
 Triadic3
 */
 
-R12a = ""
-R12b = ""
+R12a.rubric = ""
+R12b.rubric = ""
 
 hoMA.ResEvlog.title1 = ""
 hoMA.ResEvlog.title2 = ""
 //Title Mode5
-R13 = ""
+R13.rubric = ""
 hoMA.ResEvlogVerse.text = ""
 hoMA.ResEvlog1.mode = miscellanea_en_US_oca.misc.Mode5
 hoMA.ResEvlog1.incipit = "…"
@@ -107,7 +107,7 @@ hoMA.ResEvlog7.text = prayers_en_US_oca.pr.Alleluia3Glory.text
 
 hoMA.FuneralEvlog.title1 = ""
 hoMA.FuneralEvlog.title2 = ""
-R14 = ""
+R14.rubric = ""
 hoMA.FuneralEvlogVerse.text = ""
 hoMA.FuneralEvlog1.mode = miscellanea_en_US_oca.misc.Mode5
 hoMA.FuneralEvlog1.incipit = "…"
@@ -143,8 +143,8 @@ hoMA.MM.Magnificat.text = "" //for media of all modes together
 hoMA.Ode9.Meg00.incipit = "…"
 hoMA.Ode9.Meg00.text = ""
 
-R15 = ""
-R16 = "" //(Lent)
+R15.rubric = ""
+R16.rubric = "" //(Lent)
 /*
 Title On Monday
 ending1
@@ -157,9 +157,9 @@ ending
 Title On Thur
 ending
 Title On Sat
-R17
+R17.rubric
 ending
-R18
+R18.rubric
 ending
 
 Title Photogogics
@@ -245,9 +245,10 @@ hoMA.ExapSatTh.melody = he.a.m2_en_US_oca.heAU.TonMathitonOrontonSe.name
 hoMA.ExapSatTh.incipit = da.d7_en_US_oca.daMA.ExapTheotokion2.incipit
 hoMA.ExapSatTh.text = da.d7_en_US_oca.daMA.ExapTheotokion2.text
 
-R19 = ""
-R20 = ""
-R21 = ""
+R19.rubric = ""
+R20.rubric = ""
+R21a.rubric = ""
+R21b.rubric = ""
 hoMA.LaudsSunTheotokion.incipit = oc.m2.d1_en_US_oca.ocMA.Kathisma23.incipit
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_US_oca.ocMA.Kathisma23.text
 
@@ -279,10 +280,10 @@ hoMA.DoxologyVerse16.text = ""
 hoMA.DoxologyVerse17.text = ""
 hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = ""
-R22 = ""
+R22.rubric = ""
 hoMA.MM.DoxologyGreatAsmatic.text = ""
 hoMA.DoxologyVerse20.text = ""
-R23 = ""
+R23.rubric = ""
 hoMA.DoxologySmallIntro.text = ""
 hoMA.DoxologySmallEnd.text = ""
 hoMA.SmallDoxology.title = ""
@@ -295,30 +296,30 @@ hoMA.SmallDoxology2e = ""
 hoMA.SmallDoxology2n = ""
 hoMA.SmallDoxology3.text = ""
 
-R24 = ""
-R25 = ""
-R26 = ""
-R27 = ""
-R28 = "" //[maybe unpack]
+R24.rubric = ""
+R25.rubric = ""
+R26.rubric = ""
+R27.rubric = ""
+R28.rubric = "" //[maybe unpack]
 hoMA.Apolytikion = oc.m6.d5_en_US_oca.ocMA.Kathisma33.text
-R29 = "" //[maybe unpack]
-R30 = ""
-R31 = ""
-R32 = ""
-R33 = ""
-R34 = ""
-R35 = ""
-R36 = ""
+R29.rubric = "" //[maybe unpack]
+R30.rubric = ""
+R31.rubric = ""
+R32.rubric = ""
+R33.rubric = ""
+R34.rubric = ""
+R35.rubric = ""
+R36.rubric = ""
 hoMA.SunTroparion1.mode = miscellanea_en_US_oca.misc.Mode4
 hoMA.SunTroparion1.incipit = "…"
 hoMA.SunTroparion1.text = ""
-R37 = ""
+R37.rubric = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = miscellanea_en_US_oca.misc.Mode8
 hoMA.SunTroparion2.incipit = "…"
 hoMA.SunTroparion2.text = ""
-R38 = "" //[maybe unpack]
-R39 = ""
+R38.rubric = "" //[maybe unpack]
+R39.rubric = ""
 
 //Order of Matins Gospel
 hoMA.Antiphon11.title = ""
@@ -373,7 +374,7 @@ hoMA.SunPostGospelIdiomelon.text = ""
 hoMA.SunExapVerse1.text = "" //for media
 
 //Triodion specific, not in Horologion
-hoMA.RtrSoS01 = ""
+R40.rubric = ""
 
 //Polyelelos, not in Horologion
 hoMA.MM.PolyeleosPsalm134.text = ""

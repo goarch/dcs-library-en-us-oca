@@ -867,6 +867,6 @@ meLI.TheotokosHymn.text = me.m01.d06_en_US_oca.meMA.Ode9C1H.text
 
 meLI.MM.CommunionHymn.text = ""
 
-meLI.R01 = ""
+meLI.R01.rubric = ""
 
 meLI.Megalynarion.text = ""

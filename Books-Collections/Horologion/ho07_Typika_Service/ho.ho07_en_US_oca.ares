@@ -2,7 +2,7 @@ A_Resource_Whose_Name = ho.ho07_en_US_oca
 
 Title = ""
 
-R01 = ""
+R01.rubric = ""
 
 hoLI.OnlyBegotten.title = ""
 hoLI.OnlyBegotten.incipit = "…"

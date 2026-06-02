@@ -8,9 +8,9 @@ hoCA.translator = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
-R02 = ""
-R03 = ""
+R01.rubric = ""
+R02.rubric = ""
+R03.rubric = ""
 
 hoCA.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode4
 hoCA.Apolytikion1.greekmelody = he.a.m4_en_US_oca.heAU.OYpsotheisEnToStavro.greekname
@@ -387,12 +387,12 @@ hoCA.Meg06.melody = miscellanea_en_US_oca.misc.NotMetered //he.h.m6_en_US_oca.he
 hoCA.Meg06.incipit = "…"
 hoCA.Meg06.text = ""
 //R16
-R17 = ""
+R17.rubric = ""
 hoCA.MegTrans1.melody = miscellanea_en_US_oca.misc.NotMetered //he.h.m6_en_US_oca.heHE.TinTimioteran.name
 hoCA.MegTrans1.text = "" //Could be linked to Menaion
-R18 = ""
+R18.rubric = ""
 hoCA.MegLocal.text = ""
-R19 = "Then, the following:"
+R19.rubric = "Then, the following:"
 hoCA.Meg0F.melody = miscellanea_en_US_oca.misc.NotMetered //he.h.m6_en_US_oca.heHE.TinTimioteran.name
 hoCA.Meg0F.incipit = "…"
 hoCA.Meg0F.text = ""
@@ -435,7 +435,7 @@ hoCA.Troparion7.melody = ""
 hoCA.Troparion7.incipit = "I set all my hope…"
 hoCA.Troparion7.text = "I set all my hope on you, Theotokos: ⁄⁄ Shelter me beneath your veil!"
 
-R24 = ""
+R24.rubric = ""
 
 hoCA.Exaposteilarion1.mode = miscellanea_en_US_oca.misc.Mode3
 hoCA.Exaposteilarion1.melody = he.a.m3_en_US_oca.heAU.OOuranonToisAstrois.notmetered

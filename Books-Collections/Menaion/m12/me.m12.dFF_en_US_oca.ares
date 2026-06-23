@@ -340,12 +340,12 @@ meMA.Ode6C2T.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C2T.incipit = "The Existing One, eternally with…"
 meMA.Ode6C2T.text = "The Existing One, eternally with the Father and the Spirit, ⁄ is known as a little child on earth. ⁄ He Who was revealed clothing the earth with clouds ⁄ is wrapped in swaddling clothes and laid in a manger of dumb beasts. ⁄ Now let us rejoice in the prefeast ⁄⁄ as we celebrate His seedless Nativity!"
 
-meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Kontakion1.melody = miscellanea_en_US_oca.misc.AutomelonNotMetered
-meMA.Kontakion1.incipit = "O thrice-blessed ones, ⁄ you…"
-meMA.Kontakion1.text = "O thrice-blessed ones, ⁄ you did not worship the image made by man, ⁄ but armed with the invisible power of god, ⁄ you were glorified in a trial by fire. ⁄ from the midst of unbearable flames you called on god, ⁄ crying: hasten, compassionate one! ⁄ speedily come to our defense, ⁄⁄ for you are merciful and able to accomplish everything that you will."
+meMA.Kontakion1.mode = me.m12.d17_en_US_oca.meMA.Kontakion2.mode
+meMA.Kontakion1.melody = me.m12.d17_en_US_oca.meMA.Kontakion2.melody
+meMA.Kontakion1.incipit = me.m12.d17_en_US_oca.meMA.Kontakion2.incipit
+meMA.Kontakion1.text = me.m12.d17_en_US_oca.meMA.Kontakion2.text
 
-meMA.Oikos1.text = "Stretch forth Your hand, which both the pursuing Egyptians and the persecuted Hebrews knew in days of old! Do not forsake us, lest death which thirsts for us, and Satan who hates us, swallow us up, but come near to us, and be merciful to us, as once You showed mercy to the children in Babylon, who ever sang hymns to You, and for Your sake were cast into the furnace, from where they cried to You: Hasten, compassionate one! speedily come to our defense, ⁄⁄ for You are merciful and able to accomplish everything that You will!"
+meMA.Oikos1.text = me.m12.d17_en_US_oca.meMA.Oikos2.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode8
@@ -534,15 +534,15 @@ meMA.Lauds1.text = "Now let us all celebrate ⁄ the commemoration ⁄ of the ho
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
-meMA.Lauds2.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Lauds2.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
-meMA.Lauds2.incipit = "The Youths exulted ⁄ in…"
-meMA.Lauds2.text = "The Youths exulted ⁄ in the furnace, ⁄ extinguishing the might of the fire. ⁄ They sang a hymn of praise ⁄⁄ to the Almighty God."
+meMA.Lauds2.mode = me.m12.d17_en_US_oca.meMA.Aposticha3.mode
+meMA.Lauds2.melody = me.m12.d17_en_US_oca.meMA.Aposticha3.melody
+meMA.Lauds2.incipit = me.m12.d17_en_US_oca.meMA.Aposticha3.incipit
+meMA.Lauds2.text = me.m12.d17_en_US_oca.meMA.Aposticha3.text 
 
-meMA.Lauds3.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.Lauds3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
-meMA.Lauds3.incipit = "Daniel the prophet ⁄ was…"
-meMA.Lauds3.text = "Daniel the prophet ⁄ was locked in the lions’ den. ⁄ Though dwelling with wild beasts ⁄ he was preserved unharmed ⁄⁄ in spite of their wickedness!"
+meMA.Lauds3.mode = me.m12.d17_en_US_oca.meMA.Aposticha2.mode
+meMA.Lauds3.melody = me.m12.d17_en_US_oca.meMA.Aposticha2.melody
+meMA.Lauds3.incipit = me.m12.d17_en_US_oca.meMA.Aposticha2.incipit
+meMA.Lauds3.text = me.m12.d17_en_US_oca.meMA.Aposticha2.text 
 
 meMA.LaudsGlory.poet = poets_en_US_oca.po.Germanou
 meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode7

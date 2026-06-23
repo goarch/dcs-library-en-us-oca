@@ -385,7 +385,7 @@ meMA.Kontakion2.melody = ""
 meMA.Kontakion2.incipit = "O thrice-blessed ones, ⁄ you…"
 meMA.Kontakion2.text = "O thrice-blessed ones, ⁄ you did not worship the image made by man, ⁄ but armed with the invisible power of God, ⁄ you were glorified in a trial by fire. ⁄ From the midst of unbearable flames you called on God, ⁄ crying: Hasten, compassionate One! ⁄ Speedily come to our defense, ⁄⁄ for You are merciful and able to accomplish all that You will!"
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "Stretch forth Your hand, which both the pursuing Egyptians and the persecuted Hebrews knew in days of old! Do not forsake us, lest death which thirsts for us, and Satan who hates us, swallow us up, but come near to us, and be merciful to us, as once You showed mercy to the children in Babylon, who ever sang hymns to You, and for Your sake were cast into the furnace, from where they cried to You: Hasten, compassionate one! speedily come to our defense, ⁄⁄ for You are merciful and able to accomplish everything that You will!"
 
 meMA.Ode7C11.ode = miscellanea_en_US_oca.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_oca.misc.Mode8
@@ -566,13 +566,13 @@ meMA.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha3.incipit = "The Youths exulted ⁄ in…"
 meMA.Aposticha3.text = "The Youths exulted ⁄ in the furnace, ⁄ extinguishing the might of the fire. ⁄ They sang a hymn of praise ⁄⁄ to the Almighty God."
 
-meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
+meMA.AposGlory.mode = me.m12.d17_en_US_oca.meVE.SticGlory.mode
+meMA.AposGlory.melody = me.m12.d17_en_US_oca.meVE.SticGlory.melody
+meMA.AposGlory.incipit = me.m12.d17_en_US_oca.meVE.SticGlory.incipit
+meMA.AposGlory.text = me.m12.d17_en_US_oca.meVE.SticGlory.text
 
-meMA.AposBoth.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.AposBoth.melody = ""
+meMA.AposBoth.mode = me.m12.d17_en_US_oca.meVE.SticBoth.mode
+meMA.AposBoth.melody = me.m12.d17_en_US_oca.meVE.SticBoth.melody
 meMA.AposBoth.incipit = me.m12.d17_en_US_oca.meVE.SticBoth.incipit
 meMA.AposBoth.text = me.m12.d17_en_US_oca.meVE.SticBoth.text
 

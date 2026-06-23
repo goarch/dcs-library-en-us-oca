@@ -393,8 +393,8 @@ meMA.Ode6C2T.melody = he.h.m1_en_US_oca.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C2T.incipit = "Mountains and hills…"
 meMA.Ode6C2T.text = "Mountains and hills, plains and valleys, ⁄ tribes and peoples, nations and all that has breath: ⁄ cry out and be filled with godly joy! ⁄ The Redemption of all has come to dwell; ⁄ the timeless Word of God becomes subject to time ⁄ in His compassion!"
 
-meMA.Kontakion1.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.Kontakion1.melody = ""
+meMA.Kontakion1.mode = me.m12.d17_en_US_oca.meMA.Kontakion2.mode
+meMA.Kontakion1.melody = me.m12.d17_en_US_oca.meMA.Kontakion2.melody
 meMA.Kontakion1.incipit = me.m12.d17_en_US_oca.meMA.Kontakion2.incipit
 meMA.Kontakion1.text = me.m12.d17_en_US_oca.meMA.Kontakion2.text
 

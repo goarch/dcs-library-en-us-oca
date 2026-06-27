@@ -78,11 +78,6 @@ meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = "Theotokos, you are the true…"
 meVE.AposTheotokion.text = "Theotokos, you are the true vine who blossomed for us the fruit of life: ⁄ Implore Him, we pray you, Lady, ⁄ together with the apostles and all the saints, ⁄⁄ that He will have mercy on our souls."
 
-meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode3
-meVE.Apolytikion1.melody = he.ga_en_US_oca.heGA.ApostoleAgie.name
-meVE.GeneralApolytikion1.name = ""
-meVE.Apolytikion1.text = "" // for media
-
 meVE.Apolytikion2ger.poet = poets_en_US_oca.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_en_US_oca.misc.Mode3
 meVE.Apolytikion2ger.greekmelody = he.a.m3_en_US_oca.heAU.TheiasPisteos.greekname

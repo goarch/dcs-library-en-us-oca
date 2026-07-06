@@ -62,8 +62,8 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
-meVE.AposGlory.incipit = "Having cleansed our heart and…"
-meVE.AposGlory.text = "Having cleansed our heart and mind, ⁄ let us keep feast together with the angels, ⁄ joyfully addressing the song of David ⁄ to the maiden Bride of the King of all, Christ our God, saying: ⁄ Arise, Lord, into Your resting place, ⁄ both You and the ark of Your holiness! ⁄ For You have adorned her as a beautiful palace, ⁄ giving her as an inheritance to Your people, Master, ⁄ to preserve and shelter them from their enemies, ⁄⁄ by Your mighty power, through her supplications!"
+meVE.AposGlory.incipit = me.m07.d02_en_US_oca.meVE.SticGlory.incipit
+meVE.AposGlory.text = me.m07.d02_en_US_oca.meVE.SticGlory.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode8
 meVE.Apolytikion1.melody = ""

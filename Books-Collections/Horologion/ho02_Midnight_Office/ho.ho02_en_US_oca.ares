@@ -20,6 +20,10 @@ hoMO.StBasilPrayer2.rubric = ""
 hoMO.StBasilPrayer2.title = ""
 hoMO.StBasilPrayer2.text = ""
 
+hoMO.TroparionForDeceased.mode = miscellanea_en_US_oca.misc.Mode8
+hoMO.TroparionForDeceased.incipit = "…"
+hoMO.TroparionForDeceased.text = ""
+
 hoMO.PrayerForDeceased.rubric = ""
 hoMO.PrayerForDeceased.title = ""
 hoMO.PrayerForDeceased.text = ""

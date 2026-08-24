@@ -612,8 +612,8 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 
 meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "We praise in faith, glorious…"
-meMA.LaudsGlory.text = "We praise in faith, glorious James, ⁄ the honorable day of your memory: ⁄ Not because you are the son of Alpheus, ⁄ but because you are Christ’s apostle; ⁄ a preacher of His ineffable incarnation. ⁄ Since you stand before the throne of the Master, ⁄ with the angels, the choirs of apostles and martyrs, ⁄⁄ pray without ceasing that our Savior and God will save us."
+meMA.LaudsGlory.incipit = me.m10.d09_en_US_oca.meVE.AposGlory.incipit
+meMA.LaudsGlory.text = me.m10.d09_en_US_oca.meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.LaudsTheotokion.melody = ""

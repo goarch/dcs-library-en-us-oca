@@ -56,7 +56,7 @@ meVE.Stichera06.incipit = "Most holy Mark…"
 meVE.Stichera06.text = "Most holy Mark, ⁄ you lived in the light of the Spirit and were wholly transformed. ⁄ Now, most wealthy one, you are made god by adoption ⁄ and through many visions and blessed radiance, ⁄ you have reached the height of your mystery, ⁄⁄ the goal for which you longed."
 
 meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "…"
 meVE.SticGlory.text = ""
 

@@ -30,7 +30,7 @@ peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode2
-peVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+peVE.SticGlory.melody = ""
 peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ""
 
@@ -51,7 +51,7 @@ peVE.Aposticha3.text = oc.m3.d5_en_US_oca.ocVE.Aposticha3.text
 
 peVE.AposGlory.poet = poets_en_US_oca.po.Germanou
 peVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode3
-peVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+peVE.AposGlory.melody = ""
 peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = ""
 
@@ -122,7 +122,7 @@ peMA.Aposticha3.text = ""
 
 peMA.AposGlory.poet = poets_en_US_oca.po.IoannouMonachou
 peMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode8
-peMA.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+peMA.AposGlory.melody = ""
 peMA.AposGlory.incipit = "…"
 peMA.AposGlory.text = ""
 

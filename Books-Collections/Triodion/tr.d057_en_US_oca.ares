@@ -34,12 +34,12 @@ trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = //me.m04.d01_en_US_oca.meVE.Stichera03.text
 
 trVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode4
-trVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
 trVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-trVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "…"
 trVE.AposGlory.text = //me.m04.d01_en_US_oca.meVE.SticGlory.text
 

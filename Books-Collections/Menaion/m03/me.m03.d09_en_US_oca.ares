@@ -49,7 +49,7 @@ alt1.meVE.Stichera04.text = ""
 
 meVE.SticGlory.poet = poets_en_US_oca.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m03.d09_en_US_oca.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m03.d09_en_US_oca.meVE.Stichera01.text
 
@@ -102,7 +102,7 @@ meVE.Aposticha3.incipit = me.m03.d09_en_US_oca.meMA.Lauds3.incipit
 meVE.Aposticha3.text = me.m03.d09_en_US_oca.meMA.Lauds3.text
 
 meVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Faithful, let us praise the…"
 meVE.AposGlory.text = "Faithful, let us praise the forty passion-bearing martyrs in hymns! ⁄ Singing in harmony let us cry out to them saying: ⁄ Rejoice, athletes of Christ: ⁄ Hesychius, Meliton, Heraclius, Smaragdus and Domnus; ⁄ Euonicus, Valens and Vivianus; ⁄ Claudius and Priscus! ⁄ Rejoice, Theodulus, Euthychius and John, ⁄ Xantheas, Hilianus, Sisinius, Cyrion, Angius, Aetius and Flavius! ⁄ Rejoice, Acacius, Ecditius, Lysimachus, Alexander, ⁄ Elias and Candidus, ⁄ Theophilus, Dometian and Gaius ⁄ with the Godly Gorgonius! ⁄ Rejoice, Leontius and Athanasius, ⁄ Cyril and Sacerdon, ⁄ Nicholas and Valerius, ⁄ Philoctichion, Severian, Chudion and Aglaius! ⁄ You have boldness before Christ our God, most honored martyrs! ⁄ Beseech Him earnestly ⁄⁄ that those who keep your most precious memory with faith may be saved."
 
@@ -546,7 +546,7 @@ meMA.LaudsTheotokion.incipit = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m5.d3_en_US_oca.ocVE.AposTheotokion.text
 
 meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meMA.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "The martyrs considered the lake…"
 meMA.AposGlory.text = "The martyrs considered the lake to be Paradise ⁄ and winter the heat of the day! ⁄ Thoughts of the tyrant’s threats did not frighten them, Christ God. ⁄ They courageously did not fear the increasing tortures! ⁄ They had acquired the mighty weapon of the Cross, ⁄ and with it powerfully vanquished the foe! ⁄⁄ For this they have received crowns of grace!"
 

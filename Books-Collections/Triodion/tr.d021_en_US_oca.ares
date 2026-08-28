@@ -32,7 +32,7 @@ trVE.Stichera03.incipit = "Who among men can speak…"
 trVE.Stichera03.text = "Who among men can speak of the perfection of your lives, holy fathers? ⁄ What tongue can utter the sanctity of your efforts? ⁄ The sufferings in virtue, the control of the flesh? ⁄ The struggles with passions, in vigils, in prayers and in tears! ⁄ Truly you were angels while in the world. ⁄ You laid low the highest powers of evil. ⁄ You performed miraculous and wonderful signs. ⁄ Therefore pray with us, most blessed fathers, ⁄⁄ to gain for our souls eternal joy!"
 
 trVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "You preserved the image of…"
 trVE.SticGlory.text = "You preserved the image of God undefiled. ⁄ By fasting, your minds ruled the passions. ⁄ You attained to the greatest possible likeness of God, ⁄ submitting the lower to the higher, making the flesh serve the spirit! ⁄ Therefore you were shown forth as leaders of monks, ⁄ dwellers of the desert, the refuge of those who sought God, ⁄ renowned keepers of the precepts of Christ! ⁄ Now being free of the veil, ⁄ in heaven you freely behold the Holy Trinity, ⁄⁄ earnestly interceding for those who honor you with faith and love!"
 
@@ -47,7 +47,7 @@ trVE.AposMartyric.incipit = oc.m2.d3_en_US_oca.ocVE.Aposticha3.incipit
 trVE.AposMartyric.text = oc.m2.d3_en_US_oca.ocVE.Aposticha3.text
 
 trVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode8
-trVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "We honor you, our fathers…"
 trVE.AposGlory.text = "We honor you, our fathers, ⁄ instructors of a multitude of monks! ⁄ We have indeed learned to walk rightly in your footsteps! ⁄ You are blest, for having labored for Christ, ⁄ you denounced the power of the enemy! ⁄ Conversors with the angels, ⁄ companions of the venerable and righteous ones! ⁄ Together with them, entreat the Lord ⁄⁄ that he may grant mercy to our souls!"
 

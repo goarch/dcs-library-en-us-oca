@@ -32,7 +32,7 @@ meVE.Stichera03.incipit = "We celebrate the third revelation…"
 meVE.Stichera03.text = "We celebrate the third revelation of your precious head, crowned by the Holy Trinity, which was severed, O glorious one, because of your godly zeal. The ranks of Angels, the company of martyrs, the Apostles of God and all the Prophets rejoice in its discovery. Together with them, ever remember us, O Forerunner of the Lord!"
 
 meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m02.d24_en_US_oca.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m02.d24_en_US_oca.meVE.SticGlory.text
 
@@ -56,7 +56,7 @@ meVE.Aposticha3.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
 meVE.Aposticha3.text = "" //similar to me.m02.d25_en_US_oca.meVE.Stichera03.text
 
 meVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode2
-meVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m02.d24_en_US_oca.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m02.d24_en_US_oca.meVE.AposGlory.text
 

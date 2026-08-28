@@ -601,7 +601,7 @@ meMA.ExapTheotokion.text = da.d7_en_US_oca.daMA.ExapTheotokion2.text
 
 meMA.AposGlory.poet = poets_en_US_oca.po.FotiouPatriarchou
 meMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 

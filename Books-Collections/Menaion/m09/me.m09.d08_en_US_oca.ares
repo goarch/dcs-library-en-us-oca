@@ -102,7 +102,7 @@ meVE.Stichera06.text = "Today the barren Anna ⁄ gives birth to the holy handma
 
 meVE.SticGlory.poet = poets_en_US_oca.po.Sergiou
 meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m09.d08_en_US_oca.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m09.d08_en_US_oca.meVE.Stichera01.text
 

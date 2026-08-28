@@ -40,7 +40,7 @@ trVE.Stichera04.melody = miscellanea_en_US_oca.misc.Idiomelon
 trVE.Stichera04.text = me.m02.d17_en_US_oca.meVE.SticGlory.text //I honor you as the true gift of God, thrice-blessed Theodore! ⁄ You were revealed as an unfailing candle of the divine light: ⁄ your sufferings illumined the creation. ⁄ More powerful than fire, you quenched the flames ⁄ and crushed the head of the evil serpent. ⁄ When you went to your suffering, ⁄ Christ placed the crown on your divine head. ⁄ Since you have boldness before God, great Martyr, ⁄⁄ fervently pray for our souls!
 
 trVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "The devil used the Apostate…"
 trVE.SticGlory.text = "The devil used the Apostate as a vessel of evil ⁄ filling him with foul thoughts of polluting the food of the fasting people. ⁄ But you overcame his craftiness with wiser reasoning: ⁄ you appeared to the Archbishop in a dream, ⁄ and revealed the wicked plot to him. ⁄ For this we give thanks to you, martyr Theodore, ⁄ and honor you as a helper and deliverer. ⁄ Every year we remember this miracle at this season. ⁄ By your intercessions to God, ⁄⁄ may we be delivered from the reasonings of the evil one!"
 
@@ -940,7 +940,7 @@ trMA.Aposticha3.incipit = "…"
 trMA.Aposticha3.text = ""
 
 trMA.AposGlory.mode = miscellanea_en_US_oca.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "…"
 trMA.AposGlory.text = ""
 

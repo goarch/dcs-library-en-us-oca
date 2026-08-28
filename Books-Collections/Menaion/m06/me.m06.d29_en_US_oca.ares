@@ -89,7 +89,7 @@ meVE.Stichera03.text = "What spiritual songs shall we sing for Peter and Paul? �
 
 meVE.SticGlory.poet = poets_en_US_oca.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_US_oca.misc.Mode4
-meVE.SticGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Three times Christ asked Peter:…"
 meVE.SticGlory.text = "Three times Christ asked Peter: Do you love me? ⁄ In this way He reversed the threefold denial of Himself. ⁄ Henceforth Simon was to lead those who had witnessed God’s mysteries. ⁄ He cried out to the Lord: ⁄ You know all things; You know that I love You! ⁄ feed my sheep, tend my chosen ones, the Savior said. ⁄ feed my lambs, whose salvation I bought with my own blood! ⁄⁄ blessed apostle, pray that he may grant us great mercy!"
 
@@ -156,7 +156,7 @@ meVE.Aposticha3.text = "Let us praise Peter and Paul, ⁄ the two great stars of
 
 meVE.AposGlory.poet = poets_en_US_oca.po.EfraimKarias
 meVE.AposGlory.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.AposGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
+meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "A joyful feast dawns upon…"
 meVE.AposGlory.text = "A joyful feast dawns upon the earth today: ⁄ The memorial of Peter and Paul, ⁄ the wise leaders of the apostles. ⁄ Let Rome rejoice and be glad with us! ⁄ Let us keep feast, brethren, in songs and hymns, ⁄ Rejoice, apostle Peter, true friend of Christ our God! ⁄ Rejoice, beloved Paul, herald of the faith and teacher of the universe! ⁄ You have boldness before Him, chosen pair: ⁄⁄ Pray unceasingly that our souls may be saved!"
 

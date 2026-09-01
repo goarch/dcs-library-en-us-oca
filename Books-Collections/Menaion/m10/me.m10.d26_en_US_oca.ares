@@ -151,8 +151,8 @@ meMA.Kathisma21.text = ""
 
 meMA.Kathisma2T.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Kathisma2T.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.name
-meMA.Kathisma2T.incipit = "…"
-meMA.Kathisma2T.text = ""
+meMA.Kathisma2T.incipit = oc.m5.d1_en_US_oca.ocVE.ApolTheotokionVM.incipit
+meMA.Kathisma2T.text = oc.m5.d1_en_US_oca.ocVE.ApolTheotokionVM.text 
 
 meMA.Kathisma31.mode = miscellanea_en_US_oca.misc.Mode3
 meMA.Kathisma31.greekmelody = he.a.m3_en_US_oca.heAU.TinOraiotita.greekname
@@ -177,8 +177,8 @@ meMA.PostGospelBoth.text = ho.ho03_en_US_oca.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_oca.misc.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = "…"
-meMA.PostGospelIdiomelon.text = ""
+meMA.PostGospelIdiomelon.incipit = me.m10.d26_en_US_oca.meVE.LityGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m10.d26_en_US_oca.meVE.LityGlory.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""

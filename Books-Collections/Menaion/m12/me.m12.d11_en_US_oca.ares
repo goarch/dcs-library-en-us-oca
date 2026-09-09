@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = me.m12.d11_en_US_oca
 
-meDA.date = "December 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.date = "December 11" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
 meDA.commemoration.full = "Venerable Father Daniel the Stylite of Constantinople (489-490)" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""

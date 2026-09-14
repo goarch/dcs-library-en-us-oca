@@ -45,8 +45,8 @@ meSV.SticGlory.text = ""
 
 meSV.SticBoth.mode = miscellanea_en_US_oca.misc.Mode4
 meSV.SticBoth.melody = ""
-meSV.SticBoth.incipit = oc.m4.d3_en_US_oca.ocVE.AposTheotokion.incipit
-meSV.SticBoth.text = oc.m4.d3_en_US_oca.ocVE.AposTheotokion.text
+meSV.SticBoth.incipit = oc.m4.d5_en_US_oca.ocVE.AposTheotokion.incipit
+meSV.SticBoth.text = oc.m4.d5_en_US_oca.ocVE.AposTheotokion.text
 
 meSV.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_US_oca.heAU.OikosTouEfratha.notmetered

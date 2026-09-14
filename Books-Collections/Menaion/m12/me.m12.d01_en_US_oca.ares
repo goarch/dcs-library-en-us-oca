@@ -134,8 +134,8 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Ode3KathismaT.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.name
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.incipit = me.m11.d13_en_US_oca.meMA.Kathisma2T.incipit
+meMA.Ode3KathismaT.text = me.m11.d13_en_US_oca.meMA.Kathisma2T.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_oca.misc.Mode5
 meMA.Ode3KathismaSt.melody = he.a.m5_en_US_oca.heAU.TonSynanarchonLogon.notmetered

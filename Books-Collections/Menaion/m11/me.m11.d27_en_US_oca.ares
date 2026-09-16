@@ -50,8 +50,8 @@ meVE.SticGlory.text = "Patient in the midst of your sufferings, Martyr James, ‚Å
 meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.SticTheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.notmetered
-meVE.SticTheotokion.incipit = me.m01.d22_en_US_oca.meVE.AposTheotokion.incipit
-meVE.SticTheotokion.text = me.m01.d22_en_US_oca.meVE.AposTheotokion.text
+meVE.SticTheotokion.incipit = //me.m11.d15_en_US_oca.meVE.AposTheotokion.incipit
+meVE.SticTheotokion.text = //me.m11.d15_en_US_oca.meVE.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_oca.heAU.OteEkTouXylou.greekname

@@ -80,8 +80,8 @@ meVE.Aposticha1.text = "Bethlehem, land of Judah, ⁄ prepare the divine cavern 
 meVE.Aposticha2.poet = poets_en_US_oca.po.AndreouPyrou
 meVE.Aposticha2.mode = miscellanea_en_US_oca.misc.Mode2
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.incipit = "Come, all you faithful…"
-meVE.Aposticha2.text = "Come, all you faithful, ⁄ begin the celebration: ⁄ Sing with the Magi and shepherds: ⁄ Salvation comes from the Virgin’s womb, ⁄⁄ recalling the faithful to life!"
+meVE.Aposticha2.incipit = me.m12.d17_en_US_oca.meVE.SticBoth.incipit
+meVE.Aposticha2.text = me.m12.d17_en_US_oca.meVE.SticBoth.text
 
 meVE.Aposticha3.poet = poets_en_US_oca.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_en_US_oca.misc.Mode2

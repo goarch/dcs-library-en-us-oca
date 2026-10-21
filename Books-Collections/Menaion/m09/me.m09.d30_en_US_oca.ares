@@ -64,8 +64,6 @@ meVE.AposGlory.text = "The martyr and pastor was taught the secret things of the
 
 meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.AposTheotokion.melody = //he.o_en_US_oca.TheotokeSyEi.notmetered
-meVE.AposTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiAthloforou.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname

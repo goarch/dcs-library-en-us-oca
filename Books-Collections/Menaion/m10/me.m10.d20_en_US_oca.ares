@@ -62,11 +62,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Today the whole world is…"
 meVE.AposGlory.text = "Today the whole world is enlightened with the rays of the passion bearer! ⁄ The Church of God, adorned with flowers, cries out to you, Artemius: ⁄ Favorite of Christ and fervent intercessor, ⁄⁄ Never cease to pray for your servants!"
 
-meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiAthloforou.text
-
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered

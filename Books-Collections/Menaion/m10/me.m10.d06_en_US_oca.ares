@@ -44,11 +44,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Apostle Thomas, faithful servant of…"
 meVE.SticGlory.text = "Apostle Thomas, faithful servant of the Lord, ⁄ witness of His wondrous incarnation, ⁄ you have sounded the depths of divine wisdom ⁄ with the cross as your staff and measure; ⁄ you have rescued us from the abyss of delusion. ⁄ The net of your teachings has captured many souls: ⁄ Enlightening the inhabited earth with the knowledge of God ⁄ radiantly illumining the Indies. ⁄ Now you delight in the glory of Christ our God: ⁄⁄ Pray that He may have mercy on our souls!"
 
-meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiApostolou.text
-
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode4
 meVE.Aposticha1.greekmelody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.greekname
 meVE.Aposticha1.melody = he.a.m4_en_US_oca.heAU.EdokasSimeiosin.notmetered
@@ -386,11 +381,6 @@ meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = me.m10.d06_en_US_oca.meVE.AposGlory.incipit
 meMA.LaudsGlory.text = me.m10.d06_en_US_oca.meVE.AposGlory.text
-
-meMA.LaudsTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.LaudsTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meMA.LaudsTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiApostolou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_oca.media.key
 

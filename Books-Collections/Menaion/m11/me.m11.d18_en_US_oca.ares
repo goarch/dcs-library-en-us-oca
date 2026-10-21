@@ -60,11 +60,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "The victories of your martyr…"
 meVE.SticGlory.text = "The victories of your martyr are awesome and glorious, Lord! ⁄ For imitating the boldness of the fishermen, ⁄ by his words and deeds he tore asunder mythology, ⁄ catching the foolishness of the philosopher Plato with the nets of theology! ⁄ When his skin was flayed and he was beheaded, ⁄ he choked the enemy with the outpouring of his blood! ⁄ Most blessed wonder-worker Plato, ⁄ the adornment of the martyrs: ⁄ You preached the great name of Christ with boldness! ⁄⁄ Pray that great mercy may be granted to our souls!"
 
-meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiAthloforou.text
-
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered

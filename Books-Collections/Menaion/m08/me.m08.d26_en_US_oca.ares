@@ -78,11 +78,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "Holy pair, elect of the…"
 meVE.AposGlory.text = "Holy pair, elect of the Lord! ⁄ Eminent union blest by God! ⁄ Longed-for couple, beloved of Christ! ⁄ Who does not marvel, ⁄ hearing of their deeds which transcend human nature! ⁄ How did a woman stand with such courage against the arrogant tyrant ⁄ and give strength to her husband so that he did not surrender to the wicked ⁄ but chose to die for the faith rather than live? ⁄ Divinely-woven words of the all-wise Natalia! ⁄ Divine teachings which transcend the heavens ⁄ and set the glorious Adrian before the very throne of the great King: ⁄ The King Whom he acknowledged! ⁄ Holy couple, pray to God for us who keep your memory with love, ⁄⁄ that we may be delivered from temptation and all tribulations!"
 
-meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.AposTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.AposTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiAthloforon.text
-
 meVE.AposStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.notmetered

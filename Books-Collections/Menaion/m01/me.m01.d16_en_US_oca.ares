@@ -45,11 +45,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Today Peter, the rock of…"
 meVE.SticGlory.text = "Today Peter, the rock of faith, ⁄ the foundation of the church, ⁄ appoints his precious chains for the devotion of our souls. ⁄ Come and let us kiss them, ⁄ crowning him with songs of praise and chanting: ⁄ Rejoice, fervent champion of the faith, ⁄ for with ardent knowledge and great boldness ⁄ you confessed Christ, the Son of God! ⁄ Rejoice, joy of the universe, ⁄ keeper of the keys of the kingdom of heaven, ⁄ for you give grace to those who honor you with love ⁄ and venerate your precious chains with longing! ⁄ As you stand before the throne of Christ, the King of all, ⁄⁄ ever pray for us who celebrate your memory!"
 
-meVE.SticTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.SticTheotokion.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meVE.SticTheotokion.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_US_oca.heOT.TheotokeSyEiApostolou.text
-
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_oca.misc.Mode6
 meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_US_oca.heAU.TriimerosAnestis.name

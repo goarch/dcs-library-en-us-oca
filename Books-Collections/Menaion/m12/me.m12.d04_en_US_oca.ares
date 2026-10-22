@@ -96,11 +96,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "…"
 meVE.AposGlory.text = //me.m01.d15_en_US_oca.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.AposTheotokion.melody = //he.o_en_US_oca.TheotokeSyEi.notmetered
-meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = //he.o_en_US_oca.heOT.TheotokeSyEiOsiou.text
-
 meVE.Apolytikion1.mode = miscellanea_en_US_oca.misc.Mode8
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "…"
@@ -596,11 +591,6 @@ meMA.LaudsGlory.mode = miscellanea_en_US_oca.misc.Mode6
 meMA.LaudsGlory.melody = miscellanea_en_US_oca.misc.Idiomelon
 meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
-
-meMA.LaudsTheotokion.mode = miscellanea_en_US_oca.misc.Mode6
-meMA.LaudsTheotokion.melody = //he.o_en_US_oca.TheotokeSyEi.notmetered
-meMA.LaudsTheotokion.incipit = "…"
-meMA.LaudsTheotokion.text = //he.o_en_US_oca.heOT.TheotokeSyEiAthliforou.text
 
 meMA.MM.VeApos1123as5678.text = properties_en_US_oca.media.key
 

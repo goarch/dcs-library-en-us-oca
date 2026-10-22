@@ -80,11 +80,6 @@ meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "Today the radiant…"
 meVE.LityGlory.text = "Today the radiant and light-bearing memory ⁄ of the unmercenaries of Christ shines forth, ⁄ showering rays of miracles upon all the lands of the earth! ⁄ Come, lovers of the feasts of the Church, ⁄ let us celebrate with faith! ⁄ Come, let us hasten ardently to the relics of the saints, ⁄ that we may soon receive abundant healing from them, ⁄ for through the working of the Holy Spirit, ⁄⁄ they freely grant gifts of healing to all!"
 
-meVE.LityBoth.mode = miscellanea_en_US_oca.misc.Mode6
-meVE.LityBoth.melody = he.o_en_US_oca.heOT.TheotokeSyEi.name
-meVE.LityBoth.incipit = he.o_en_US_oca.heOT.TheotokeSyEi.incipit
-meVE.LityBoth.text = he.o_en_US_oca.heOT.TheotokeSyEiAnargyron.text
-
 meVE.Aposticha1.mode = miscellanea_en_US_oca.misc.Mode1
 meVE.Aposticha1.greekmelody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_US_oca.heAU.TonOuranionTagmaton.name
